@@ -1,0 +1,14 @@
+[
+    {
+        "type": "income",
+        "category": "test",
+        "amount": 2000.0,
+        "date": "2024-05-22 08:36:21"
+    },
+    {
+        "type": "expense",
+        "category": "tedt",
+        "amount": 344.0,
+        "date": "2024-05-22 08:36:38"
+    }
+]
